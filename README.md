@@ -1,7 +1,7 @@
 <div align="center">
   <kbd>
   <a href="https://github.com/0xnyxo/Discord-Selfbot-Message-Automation">
-    <img src="https://raw.githubusercontent.com/0xnyxo/Discord-Gift-Checker/main/assets/images/image.png" alt="Logo" style="width: 100%; height: 100%;">
+    <img src="https://raw.githubusercontent.com/0xnyxo/Discord-Selfbot-Message-Automation/main/assets/images/image.png" alt="Logo" style="width: 100%; height: 100%;">
   </a>
   </kbd>
   
