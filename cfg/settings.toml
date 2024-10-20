@@ -1,0 +1,13 @@
+[server]
+guild_id = ""
+
+[proxy]
+use_proxies = false
+proxy_file = "cfg/proxies.txt"
+
+[config]
+num_threads = 5
+message = ""
+custom_channel_id = ""
+use_image = false      # If you wanna use Image then insert your image inside data named image1.jpg you can change the type of file
+multitokens = true     # IF you wanna use multiple Tokens set to true
