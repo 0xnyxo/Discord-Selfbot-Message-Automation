@@ -44,4 +44,4 @@ This project is a Python-based selfbot for automating message sending in Discord
 
 ---
 
-Made by 0xnyxo Aka vyxon!
+Made by 0xnyxo Aka Vyxon!
